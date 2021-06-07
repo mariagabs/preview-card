@@ -1,6 +1,6 @@
-# Frontend Mentor - Profile card component solution
+# Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -20,7 +20,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 ![image](https://user-images.githubusercontent.com/71193719/121100783-e7bd4d00-c7d0-11eb-9681-05aa586d3927.png)
-![image](https://user-images.githubusercontent.com/71193719/121100844-06234880-c7d1-11eb-8955-d75fd3073951.png)
+
+![image](https://user-images.githubusercontent.com/71193719/121100921-2e12ac00-c7d1-11eb-8ec2-1e555417b5f5.png)
 
 
 ### Links
